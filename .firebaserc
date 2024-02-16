@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "circleauth-40820",
+    "circleauth": "circleauth-40820"
+  },
+  "targets": {},
+  "etags": {}
+}
